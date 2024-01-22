@@ -1,0 +1,14 @@
+body{
+    margin: 2em;
+    padding: 10px;
+}
+.container {
+    display: grid;
+    place-items: center;
+
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
